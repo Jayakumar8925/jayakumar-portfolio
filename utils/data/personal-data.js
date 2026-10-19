@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/Jai1.png",
   designation: "Software Developer",
   description:
-    "Results-driven Software Developer with 2.4 years of experience building and maintaining production-grade web applications using PHP (CodeIgniter) and Python (Flask), specializing in healthcare, HRMS, and enterprise systems.",
+    "Results-driven Software Developer with 3 years of experience building and maintaining production-grade web applications using PHP (CodeIgniter) and Python (Flask), specializing in healthcare, HRMS, and enterprise systems.",
 
   email: "jayakumarselvaraj01@gmail.com",
   phone: "9384507097",
